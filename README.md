@@ -98,14 +98,14 @@ https://book.mlmlib.top/
 官网(需要魔法)： https://z-lib.is/             
 镜像站检测并自动跳转（免魔法）：    https://zlibrary-redirect.se/?redirectUrl=/          
 2.pdfdrive图书馆  https://www.pdfdrive.com/#            
-3.libgen图书馆   https://libgen.li/ 
+3.libgen图书馆  https://libgen.li/            
 4.安娜的档案（无下载次数限制）   
 https://zh.annas-archive.gs/   
 
-zlibrary/安娜的档案/lib免翻墙镜像网站检测    
+zlibrary/安娜的档案/lib免代理，镜像网站检测    
 https://mirror.ssdown.org/#tab-0  
     
-4.无产阶级图书馆   http://45.32.41.3/    
+5.无产阶级图书馆   http://45.32.41.3/    
 5.如何下载纪录片/电影：谷歌或者bing搜索磁力网站，在磁力网站检索资源/谷歌直接搜索电影纪录片。示例磁力聚合：   
 https://www.5hacg.com/article/6622.html   配合迅雷/motrix 等磁力下载工具下载    
 # 六.一些推荐网站  (新闻资料等)  
