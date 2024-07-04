@@ -299,9 +299,6 @@ https://github.com/HuaZoffice/Magisk_change-your-phone-model
 ip隐藏： 相关魔法软件                 
 ......
 
-    
-# 长路漫漫从头越
-![image](https://github.com/bitface9527/maoism-/blob/main/images/%E6%96%B0%E9%95%BF%E5%BE%81.jpg)  
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;新长征
+
 ~~持续更新，未完待续.......~~       
 
