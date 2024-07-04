@@ -1,5 +1,4 @@
-      
-![image](https://github.com/bitface9527/maoism-/blob/main/images/%E7%BA%AA%E5%BF%B5%E6%95%99%E5%91%98%E6%AF%9B%E6%B3%BD%E4%B8%9C.png)      
+       
 **maoism-马列毛主义图书资料库（纪念我们的伟大导师 马克思 恩格斯 列宁 斯大林 毛泽东主席）**  
 ## 项目地址： https://github.com/Qpqw9301/maoism-library/    
 
@@ -45,8 +44,7 @@
 魏巍同志晚年文章， 特别是总结继续革命理论经验的  
 铁木尔哈达(党员)的晚年日记《醒悟》  等
  
-# 二.互联网搜集的网盘资源     
-![image](https://github.com/bitface9527/maoism-/blob/main/images/%E9%95%BF%E5%BE%81.png)                       
+# 二.互联网搜集的网盘资源                        
 &ensp;&ensp;&ensp;&ensp;******解压密码多为文件名后括号内的字母数字或者文件名中文后英文开始的部分（不包含“.xxx”文件名后缀）*****          
 
 （一）国际国内共产运动历史（继续革命，包含韩丁，斯诺专题等）  
@@ -91,8 +89,7 @@ https://www.5hacg.com/article/6622.html   配合迅雷/motrix 等磁力下载工
 
 
 # 五、西方马克思主义思潮概论与批判：  
- ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E6%99%9A%E5%B9%B4%E5%8D%A2%E5%8D%A1%E5%A5%87.png)    
- 
+
 &ensp;&ensp;&ensp;&ensp;*** 作为西马创始人之一的卢卡奇自己晚年都批判西马     
 书籍推荐：   
 卢卡奇： 历史与阶级意识新版序言，我走向马克思的道路，关于社会存在的本体论 ，卢卡奇自传        
@@ -111,13 +108,13 @@ https://www.5hacg.com/article/6622.html   配合迅雷/motrix 等磁力下载工
     无论如何，这些话就是这样进入听众的头脑的。因为决定意义的不是文字，而是文字的回声。
     因此，毫无疑问，第二十二次代表大会“放弃”，或者说象征性地牺牲无产阶级专政，是一石二鸟之举。” 
     《论法共二十二大》   1977年 发表于《思想》上
-## 西方马克思主义概论与批判正文（点击链接查看正文） https://github.com/bitface9527/aiguo              
+## 西方马克思主义概论与批判正文（点击链接查看正文）    https://github.com/Qpqw9301/aiguo              
 
  
 ##### 托洛茨基主义/安娜其无政府主义/修正主义批判参考上文文网盘资源
   
 # 六.一些推荐网站  (新闻资料等)  
-![image](https://github.com/bitface9527/maoism-/blob/main/images/%E5%AD%A6%E7%94%9F.png)    
+    
 ### 布站**（新闻 文章等，需要魔法）   https://longlivemarxleninmaoism.online/    
 ### 国际共产主义联盟官网（毛主义）   https://ci-ic.org/        
 ### 毛泽东博览（毛泽东资料库）  http://www.mzdbl.cn/      
