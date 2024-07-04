@@ -1,6 +1,8 @@
 项目地址： https://github.com/bitface9527/maoism-      
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E7%BA%AA%E5%BF%B5%E6%95%99%E5%91%98%E6%AF%9B%E6%B3%BD%E4%B8%9C.png)      
 **maoism-马列毛主义图书资料库（纪念我们的伟大导师 马克思 恩格斯 列宁 斯大林 毛泽东主席）**  
+## 项目地址： https://github.com/bitface9527/maoism-     
+
 ### 最近有人冒充对此项目所有权，公开声明：此项目属于所有无产阶级，内容全部收集自互联网，不属于任何人，警惕有人或组织冒充，用于诈骗或犯罪行为。    
  
          
