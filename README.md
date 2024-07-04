@@ -186,7 +186,18 @@ https://yopmail.com/zh/
 https://10minutemail.net/?lang=en   
 永久匿名邮箱       
 https://mail.proton.me/   
-https://app.addy.io/login        
+https://app.addy.io/login     
+
+用马甲邮箱代理收发以隐藏你的真实邮箱:              
+Firefox Relay 是一个火狐扩展，让你在填写在线表格时保持你的电子邮件地址的隐私。它通过创建一个电子邮件马甲，并将信息转发到你的真实电子邮件地址，以保持地址对你不信任的公司隐藏。当你不再需要它时，你甚至可以禁用或删除该马甲                        
+firefox马甲邮箱官网
+https://relay.firefox.com/accounts/profile/                   
+详细介绍：                
+https://support.mozilla.org/zh-CN/kb/%E6%BF%80%E6%B4%BB%20Firefox%20Relay%20-%20%E7%94%A8%E9%A9%AC%E7%94%B2%E9%9A%90%E8%97%8F%E4%BD%A0%E7%9A%84%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E5%9C%B0%E5%9D%80     
+firefox马甲邮箱官网
+https://relay.firefox.com/accounts/profile/                                 
+Firefox Relay马甲代理邮箱 浏览器插件下载地址
+https://addons.mozilla.org/zh-CN/firefox/addon/private-relay/          
 
 sms接码平台，匿名注册各种账户：  
 https://sms-activate.io/    
