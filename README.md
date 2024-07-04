@@ -61,7 +61,6 @@ https://www.mediafire.com/folder/nr73ucqpzzv25/netb
 https://www.mediafire.com/folder/19inu1mna8ioz 
        
 #  三.其他人的github项目/资料库，包含很多资料
-![image]()   
 &ensp;&ensp;&ensp;&ensp;******github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用*****   
 国际加速器使用教程（收集自他人开源项目）：https://codeberg.org/E0D4B047x/WorldwideInternet   
        
@@ -93,8 +92,7 @@ https://www.5hacg.com/article/6622.html   配合迅雷/motrix 等磁力下载工
 
 # 五、西方马克思主义思潮概论与批判：  
  ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E6%99%9A%E5%B9%B4%E5%8D%A2%E5%8D%A1%E5%A5%87.png)    
-
-![image](https://github.com/bitface9527/maoism-/blob/main/images/%E6%99%9A%E5%B9%B4%E5%8D%A2%E5%8D%A1%E5%A5%87.png)  
+ 
 &ensp;&ensp;&ensp;&ensp;*** 作为西马创始人之一的卢卡奇自己晚年都批判西马     
 书籍推荐：   
 卢卡奇： 历史与阶级意识新版序言，我走向马克思的道路，关于社会存在的本体论 ，卢卡奇自传        
