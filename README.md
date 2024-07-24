@@ -200,31 +200,63 @@ https://addons.mozilla.org/zh-CN/firefox/addon/private-relay/
 sms接码平台，匿名注册各种账户：  
 https://sms-activate.io/    
 
-### 加密文件传输分享，加密文件和消息分享， 阅后即焚     
-（一）支持信息 和图片上传 https://safenote.co/private-message    
-（二）支持文字图片文件 https://privnote.com/#     
-（三）支持文件上传       
-1.https://transfer.acted.org/  
+加密文件传输分享，加密文件和消息分享， 阅后即焚
+
+（一）支持信息 和图片上传 https://safenote.co/private-message
+（二）支持文字图片文件 https://privnote.com/#
+（三）支持文件上传
+1.https://transfer.acted.org/
 (支持上传单个文件最大5GB,上传文件可下载次数最多3000次,上传文件有效期最长14天)
-2.https://send.portailpro.net/     
-(支持上传单个文件最大10GB,上传文件可下载次数最多100次,上传文件有效期最长30天)     
-3.https://send.datenpost.app/(支持上传单个文件最大30GB,上传文件可下载次数最多3次,上传文件有效期最长7天)    
+2.https://send.portailpro.net/
+(支持上传单个文件最大10GB,上传文件可下载次数最多100次,上传文件有效期最长30天)
+3.https://send.datenpost.app/
+(支持上传单个文件最大30GB,上传文件可下载次数最多3次,上传文件有效期最长7天)
+其他文件传输实例 ：
+(1) https://transfer.acted.org/
+（支持上传单个文件最大5GB,上传文件可下载次数最多3000次，上传文件有效期最长14天）
+(2) https://send.portailpro.net/
+（支持上传单个文件最大10GB,上传文件可下载次数最多100次，上传文件有效期最长30天）
+(3) https://send.datenpost.app/
+（支持上传单个文件最大30GB,上传文件可下载次数最多3次，上传文件有效期最长7天）
+(4) https://files.psu.ru/
+（支持上传单个文件最大16GB,上传文件可下载次 数最多500次，上传文件有效期最长7天）
+(5) https://send.cyberjake.xyz/
+（支持上传单个文件最大10GB,上传文件可下载次数 最多100次，上传文件有效期最长30天）
+(6) https://send.adminforge.de/
+（支持上传单个文件最大8GB,上传文件可下载 次数最多1000次,上传文件有效期最长7天）
+(7) https://send.ephemeral.land/
+（支持上传单个文件最大8GB,上传文件可下载次数最多1000次，上传文件有效期最长28天）
+
+PrivateBin免代理实例
+这是开源自由去中心化的文字寄存实例，使用不需要注册登陆，可以在上面寄存文本消息，可以选择以链接和二维码的方式分享寄存内容，可以设置密码避免被第三方获取内容，可以设置阅后即焚和长期寄存，可以选择文本格式和上传较小内存体积附件，可以为文字寄存设置开放讨论方便查看者评论。
+
+以下是实例链接网站：
+
+(1) https://0.0g.gg/
+(2) https://0.jaegers.net/
+(3) https://bin.0xfc.de/
+(4) https://bin.bus-hit.me/
+(5) https://bin.ngn.tf/
+(6) https://bin.oldgate.org/
+(7) https://notebin.de/
 
 安全免费匿名的网盘：
-https://www.mediafire.com/      （免费的10g）
-https://www.mediafire.com/        （免费20g）
+mieafire网盘
+https://www.mediafire.com/ （免费的10g）
+mega网盘 https://mege.io/
+（免费20g）
 
-
-开源代码托管平台：    
-介绍：6 个开源和自托管的 Github 替代方案        
-https://www.cnblogs.com/victorlyw/p/14926815.html
-具体平台推荐 ：
-https://codeberg.org/          
-https://about.gitlab.com/             
-https://about.gitea.com/             
-https://savannah.gnu.org/      (自由软件基金会的免费开源软件 )    
-https://gitbucket.github.io/      
-github被垄断资本微软收购 ，现在登陆需要app二次验证，需要绑定电话，因此不推荐。      
+开源代码托管平台：
+介绍：6 个开源和自托管的 Github 替代方案
+https://www.cnblogs.com/victorlyw/p/14926815.html     
+具体平台推荐 ： https://codeberg.org/
+https://about.gitlab.com/
+https://about.gitea.com/
+https://savannah.gnu.org/ (自由软件基金会的免费开源软件 )
+https://gitbucket.github.io/
+https://sourceforge.net  （无限容量无文件大小限制）  
+github 目前需要二次验证 ，可以用安卓自由软件freeotop,或者火狐浏览器插件二维码验证器绑定验证
+    
 
 # 八、自由软件/操作系统           
 
