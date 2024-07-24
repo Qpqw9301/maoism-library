@@ -185,8 +185,7 @@ https://10minutemail.net/?lang=en
 永久匿名邮箱       
 https://mail.proton.me/   
 https://app.addy.io/login     
-
-用马甲邮箱代理收发以隐藏你的真实邮箱:              
+用马甲邮箱代理收发以隐藏你的真实邮箱:                
 Firefox Relay 是一个火狐扩展，让你在填写在线表格时保持你的电子邮件地址的隐私。它通过创建一个电子邮件马甲，并将信息转发到你的真实电子邮件地址，以保持地址对你不信任的公司隐藏。当你不再需要它时，你甚至可以禁用或删除该马甲                        
 firefox马甲邮箱官网
 https://relay.firefox.com/accounts/profile/                   
@@ -200,7 +199,7 @@ https://addons.mozilla.org/zh-CN/firefox/addon/private-relay/
 sms接码平台，匿名注册各种账户：  
 https://sms-activate.io/    
 
-加密文件传输分享，加密文件和消息分享， 阅后即焚
+- 加密文件传输分享，加密文件和消息分享， 阅后即焚
 
 （一）支持信息 和图片上传 https://safenote.co/private-message
 （二）支持文字图片文件 https://privnote.com/#
@@ -240,13 +239,15 @@ PrivateBin免代理实例
 (6) https://bin.oldgate.org/
 (7) https://notebin.de/
 
-安全免费匿名的网盘：
+- 安全免费匿名的网盘：
 mieafire网盘
 https://www.mediafire.com/ （免费的10g）
 mega网盘 https://mege.io/
 （免费20g）
 
-开源代码托管平台：
+- 开源代码托管平台：      
+git/codeberg/github/sourceforgek基础教程，md/html语法，静态/动态网页制作托管发布教程       
+https://github.com/Qpqw9301/git-github-codeberg-sourceforgek-md-html        
 介绍：6 个开源和自托管的 Github 替代方案
 https://www.cnblogs.com/victorlyw/p/14926815.html     
 具体平台推荐 ： https://codeberg.org/
@@ -258,18 +259,19 @@ https://sourceforge.net  （无限容量无文件大小限制）
 github 目前需要二次验证 ，可以用安卓自由软件freeotop,或者火狐浏览器插件二维码验证器绑定验证
     
 
-# 八、自由软件/操作系统           
-
-电脑版koodoreader本地阅读器官网 https://koodo.960960.xyz/zh             
+# 八、自由软件/操作系统    
+- gnulinux 自由操作系统安装指南（deebian/pureos/archlinux/fedora）              
+https://github.com/Qpqw9301/gnulinux-archlinux-debian-fedora     
+电脑版koodoreader本地阅读器官网 https://koodo.960960.xyz/zh                
 电脑版libreofiice 自由办公软件 官网：https://www.libreoffice.org/download/download-libreoffice/     
 7zip官网   https://www.7-zip.org/download.html
-windows沙盒软件 （隔离商业软件 软件环境）
+windows沙盒软件 （隔离商业软件 软件环境）  
 https://sandboxie-plus.com/downloads/    
 开源虚拟机（隔离环境 ）     https://www.virtualbox.org/           
 电脑gnulinux自由操作系统 pureos官网            https://www.pureos.net/               
 
 
-手机操作系统推荐 ：（  
+手机操作系统推荐 ：
 limeage os（基于安卓 ）    https://lineageos.org/           
 石墨烯 系统（仅谷歌手机能用 ）  
 ......      
