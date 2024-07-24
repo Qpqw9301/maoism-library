@@ -23,7 +23,7 @@
 
 # **一.马列毛学习推荐， 资料链接在后文**  
 
-- [点击在线阅览下载基础书籍]-(https://codeberg.org/lovechina/books "book")
+- [点击在线阅览下载基础书籍](https://codeberg.org/lovechina/books)
   
 1. 教员 ：辩证法唯物论讲授提纲，     
 &ensp;&ensp;&ensp;&ensp;教员五篇哲学     
