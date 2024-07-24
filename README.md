@@ -70,21 +70,18 @@
 https://book.mlmlib.top/     
   
 # 四.电子书和纪录片电影检索下载引擎网站
-1. 首选zli图书馆（全球最大开源电子书网站，一个账号每人免费10次下载）安卓app端见网盘1    
-zli图书馆安卓客户端（其他客户端也在这个网址）    
-https://zh.go-to-library.sk/#android_app_tab    
-zli图书馆可用网址检测     
-https://zh.go-to-library.sk/#useful_link_tab     
-zli图书馆火狐浏览器可用网址检测插件（推荐）        
-https://zh.go-to-library.sk/#desktop_app_tab
+1. 首选zli图书馆（全球最大开源电子书网站，一个账号每人免费10次下载）安卓app端见网盘1             
+[zli图书馆安卓客户端（其他客户端也在这个网址)](https://zh.go-to-library.sk/#android_app_tab)       
+[zli图书馆可用网址检测](https://zh.go-to-library.sk/#useful_link_tab)           
+[zli图书馆火狐浏览器可用网址检测插件（推荐）](https://zh.go-to-library.sk/#desktop_app_tab)        
       
-2. pdfdrive图书馆  https://www.pdfdrive.com/#            
-3. libgen图书馆  https://libgen.li/            
-4. 安娜的档案（无下载次数限制）   
-https://zh.annas-archive.gs/          
-5.无产阶级图书馆   http://45.32.41.3/        
-5. 如何下载纪录片/电影：谷歌或者bing搜索磁力网站，在磁力网站检索资源/谷歌直接搜索电影纪录片。示例磁力聚合：   
+2. [pdfdrive图书馆](https://www.pdfdrive.com/#)           
+3. [libgen图书馆](https://libgen.li/)            
+4. [安娜的档案（无下载次数限制）](https://zh.annas-archive.gs/)             
+5. [无产阶级图书馆 ](http://45.32.41.3/)       
+6. 如何下载纪录片/电影：谷歌或者bing搜索磁力网站，在磁力网站检索资源/谷歌直接搜索电影纪录片。示例磁力聚合：   
 https://www.5hacg.com/article/6622.html   配合迅雷/motrix 等磁力下载工具下载  
+  
 
 
 # 五、西方马克思主义思潮概论与批判：  
@@ -93,47 +90,29 @@ https://www.5hacg.com/article/6622.html   配合迅雷/motrix 等磁力下载工
 ##### 托洛茨基主义/安娜其无政府主义/修正主义批判参考下文网盘资源
   
 # 六.一些推荐网站  (新闻资料等)      
-- 布站（新闻 文章等，需要魔法）   https://longlivemarxleninmaoism.online/    
-- 国际共产主义联盟官网（毛主义）   https://ci-ic.org/        
-毛泽东博览（毛泽东资料库）  http://www.mzdbl.cn/      
-- 激流网  https://jiliuwang.net/        
+- [布站-新闻文章等，需要魔法](https://longlivemarxleninmaoism.online/)    
+- [国际共产主义联盟官网（毛主义）](https://ci-ic.org/)        
+[毛泽东博览（毛泽东资料库）](http://www.mzdbl.cn/)    
+- [激流网](https://jiliuwang.net/)       
     
-- 共产主义旗帜网     
-http://www.gczyqzggpy.com/      
-- 托派建立的马克思主义文库（需要甄别托派理论和西马理论）    
-https://www.marxists.org/chinese/index.html     
-- 在线旧报刊（人民日报 红旗等）      
-https://reader.jojokanbao.cn/  
-- 中国革命历史文献资料  
- http://geming.20m.com/  
-- 林彪 军队 继续革命    
-https://www.linbiao.org/forum/index.php    
-- 马列毛图书馆：  
-https://maozhuyi.home.blog/category/%e5%9f%ba%e7%a1%80%e6%96%87%e4%bb%b6/  
-- From Marx to Mao --- 从马克思到毛泽东   
-http://www.marx2mao.com/   
-- 贡派马列毛图书馆 – 坚持、捍卫和应用马列毛主义，主要是毛主义！     
-https://maozhuyi.home.blog/    
-- 無產階級圖書館 - 解放知識！        
-https://library.proletarian.me/       
-- 中国劳工报   
-https://clb.org.hk/en      
-- 马列毛群众    
-https://mlmmlm-icu.github.io/t/topic/index.html  
-- 俄罗斯毛主义党资料库      
-https://rusmaoparty.org/library/  
-- bannedthought資料庫     
-https://www.bannedthought.net/     
-- SOL ROJO 新聞    
-https://pukainti.blogspot.com/?m=1    
-- 保衛馬克思 新聞    
-http://www.marxist.com/  
-- irm国际红色通讯     
-https://irn.red/      
-- 继续革命与当代史研究网 （需自行辨别资料）
-https://difangwenge.org/    
-- 红色中文网（需自行辨别资料）      
-http://redchinacn.net/     
+- [共产主义旗帜网](http://www.gczyqzggpy.com/)      
+- [托派建立的马克思主义文库（需要甄别托派理论和西马理论)](https://www.marxists.org/chinese/index.html)     
+- [在线旧报刊（人民日报 红旗等)](https://reader.jojokanbao.cn/) 
+- [中国革命历史文献资料](http://geming.20m.com/)  
+- [林彪 军队 继续革命](https://www.linbiao.org/forum/index.php)    
+- [马列毛图书馆](https://maozhuyi.home.blog/category/%e5%9f%ba%e7%a1%80%e6%96%87%e4%bb%b6/)  
+- [From Marx to Mao --- 从马克思到毛泽东](http://www.marx2mao.com/)     
+- [贡派马列毛图书馆 – 坚持、捍卫和应用马列毛主义，主要是毛主义！](https://maozhuyi.home.blog/)       
+- [無產階級圖書館 - 解放知識！](https://library.proletarian.me/)         
+- [中国劳工报](https://clb.org.hk/en)     
+- [马列毛群众](https://mlmmlm-icu.github.io/t/topic/index.html) 
+- [俄罗斯毛主义党资料库](https://rusmaoparty.org/library/)  
+- [bannedthought資料庫](https://www.bannedthought.net/)     
+- [SOL ROJO 新聞](https://pukainti.blogspot.com/?m=1)    
+- [保衛馬克思 新聞](http://www.marxist.com/ ) 
+- [irm国际红色通讯](https://irn.red/)      
+- [继续革命与当代史研究网 （需自行辨别资料）](https://difangwenge.org/)    
+- [红色中文网（需自行辨别资料)](http://redchinacn.net/)     
 ### tg
 - Marx BBS TM（ bbs论坛语音 阳和平 红贝 太湖石讲课等）  https://t.me/mlmbbs     
 - 马列毛主义与革命左翼图书馆     https://t.me/taipingtianguo            
@@ -147,12 +126,10 @@ https://t.me/mlmcpp
 - 革命火炬     https://t.me/gczy2022          
 - 工劳快讯：关注当代打工人    https://t.me/laborpower       
 ###   其他大陆  搜书网站合集   
-1. 熊猫搜书_熊猫搜索_一站式读书学习导航站_聚合电子
-书及文档搜索
-https://xmsoushu.com/#/    
-2. 书享家-电子书下载导航     
-https://www.shuxiangjia.cn/?rfrom=1024320u&rchannel=1024321o&rqid=10160763377719097155       
-# 七、        
+1. [熊猫搜书_熊猫搜索_一站式读书学习导航站_聚合电子书及文档搜索](https://xmsoushu.com/#/)    
+2. [书享家-电子书下载导航](https://www.shuxiangjia.cn/?rfrom=1024320u&rchannel=1024321o&rqid=10160763377719097155)      
+
+ # 七、        
 - 一次性邮箱          
 https://www.guerrillamail.com/    
 https://temp-mail.org/zh/    
@@ -164,58 +141,38 @@ https://app.addy.io/login
 用马甲邮箱代理收发以隐藏你的真实邮箱:   
 上面的protonmail匿名邮箱也可以开启马甲邮箱代收功能     
 Firefox Relay 是一个火狐扩展，让你在填写在线表格时保持你的电子邮件地址的隐私。它通过创建一个电子邮件马甲，并将信息转发到你的真实电子邮件地址，以保持地址对你不信任的公司隐藏。当你不再需要它时，你甚至可以禁用或删除该马甲                                
-firefox马甲邮箱官网 https://relay.firefox.com/accounts/profile/                     
-详细介绍：         
-https://support.mozilla.org/zh-CN/kb/%E6%BF%80%E6%B4%BB%20Firefox%20Relay%20-%20%E7%94%A8%E9%A9%AC%E7%94%B2%E9%9A%90%E8%97%8F%E4%BD%A0%E7%9A%84%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E5%9C%B0%E5%9D%80            
-firefox马甲邮箱官网 
-https://relay.firefox.com/accounts/profile/                                 
-Firefox Relay马甲代理邮箱 浏览器插件下载地址 https://addons.mozilla.org/zh-CN/firefox/addon/private-relay/                
+[firefox马甲邮箱官网](https://relay.firefox.com/accounts/profile/)                     
+[详细介绍](https://support.mozilla.org/zh-CN/kb/%E6%BF%80%E6%B4%BB%20Firefox%20Relay%20-%20%E7%94%A8%E9%A9%AC%E7%94%B2%E9%9A%90%E8%97%8F%E4%BD%A0%E7%9A%84%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E5%9C%B0%E5%9D%80)            
+[firefox马甲邮箱官网](https://relay.firefox.com/accounts/profile/)                                 
+[Firefox Relay马甲代理邮箱 浏览器插件下载地址](https://addons.mozilla.org/zh-CN/firefox/addon/private-relay/)                
 
-- sms接码平台，匿名注册各种账户：  
-https://sms-activate.io/    
+- [sms接码平台，匿名注册各种账户](https://sms-activate.io/)    
 
 ### 加密文件传输分享，加密文件和消息分享， 阅后即焚     
-1. 支持信息 和图片上传 https://safenote.co/private-message    
-2. 支持文字图片文件 https://privnote.com/#     
-3. 支持文件上传       
-- 1.https://transfer.acted.org/  
-(支持上传单个文件最大5GB,上传文件可下载次数最多3000次,上传文件有效期最长14天)                     
-- 2.https://send.portailpro.net/           
-(支持上传单个文件最大10GB,上传文件可下载次数最多100次,上传文件有效期最长30天)     
-- 3.https://send.datenpost.app/          
-  (支持上传单个文件最大30GB,上传文件可下载次数最多3次,上传文件有效期最长7天)        
-- 其他文件传输实例  ：                               
-- (1) https://transfer.acted.org/          
-（支持上传单个文件最大5GB,上传文件可下载次数最多3000次，上传文件有效期最长14天）          
-- (2) https://send.portailpro.net/            
-（支持上传单个文件最大10GB,上传文件可下载次数最多100次，上传文件有效期最长30天）              
-- (3) https://send.datenpost.app/           
-（支持上传单个文件最大30GB,上传文件可下载次数最多3次，上传文件有效期最长7天）       
-- (4) https://files.psu.ru/          
-（支持上传单个文件最大16GB,上传文件可下载次 数最多500次，上传文件有效期最长7天）         
-- (5) https://send.cyberjake.xyz/          
-（支持上传单个文件最大10GB,上传文件可下载次数 最多100次，上传文件有效期最长30天）    
-- (6) https://send.adminforge.de/              
-（支持上传单个文件最大8GB,上传文件可下载 次数最多1000次,上传文件有效期最长7天）          
-- (7) https://send.ephemeral.land/         
-（支持上传单个文件最大8GB,上传文件可下载次数最多1000次，上传文件有效期最长28天）         
+1. [支持信息 和图片上传](https://safenote.co/private-message)   
+2. [支持文字图片文件](https://privnote.com/#)     
+3. 支持文件上传其他文件传输实例  ：                               
+- [1.支持上传单个文件最大5GB,上传文件可下载次数最多3000次，上传文件有效期最长14天） ](https://transfer.acted.org/)          
+- [2.支持上传单个文件最大10GB,上传文件可下载次数最多100次，上传文件有效期最长30天](https://send.portailpro.net/)         
+- [3.支持上传单个文件最大30GB,上传文件可下载次数最多3次，上传文件有效期最长7天](https://send.datenpost.app/)          
+- [4.支持上传单个文件最大16GB,上传文件可下载次数最多500次，上传文件有效期最长7](https://files.psu.ru/)
+- [5.支持上传单个文件最大10GB,上传文件可下载次数最多100次，上传文件有效期最长30天](https://send.cyberjake.xyz/)            
 - PrivateBin免代理实例                     
 这是开源自由去中心化的文字寄存实例，使用不需要注册登陆，可以在上面寄存文本消息，可以选择以链接和二维码的方式分享寄存内容，可以设置密码避免被第三方获取内容，可以设置阅后即焚和长期寄存，可以选择文本格式和上传较小内存体积附件，可以为文字寄存设置开放讨论方便查看者评论。       
-以下是实例链接网站：                       
-
+以下是实例链接网站站：                       
 -(1) https://0.0g.gg/            
 -(2) https://0.jaegers.net/          
 -(3) https://bin.0xfc.de/             
 -(4) https://bin.bus-hit.me/        
 -(5) https://bin.ngn.tf/          
 -(6) https://bin.oldgate.org/        
--(7) https://notebin.de/                   
+-(7) https://notebin.de/                      
+             
  
 ####  开源代码托管平台：   
-- *git/codeberg/github/sourceforgek基础教程，md/html语法，静态/动态网页制作托管发布教程       
-https://github.com/Qpqw9301/git-github-codeberg-sourceforgek-md-html  
-介绍：6 个开源和自托管的 Github 替代方案        
-https://www.cnblogs.com/victorlyw/p/14926815.html
+- [*git/codeberg/github/sourceforgek基础教程，md/html语法，静态/动态网页制作托管发布教程]        
+(https://github.com/Qpqw9301/git-github-codeberg-sourceforgek-md-html)        
+[介绍：6 个开源和自托管的 Github 替代方案](https://www.cnblogs.com/victorlyw/p/14926815.html)
 具体平台推荐 ：
 - https://codeberg.org/          
 - https://about.gitlab.com/             
@@ -226,49 +183,42 @@ https://www.cnblogs.com/victorlyw/p/14926815.html
 - github 目前需要二次验证 ，可以用安卓自由软件freeotop,或者火狐浏览器插件二维码验证器绑定验证        
 
 #### 安全免费匿名的网盘：       
-- mieafire网盘               
-https://www.mediafire.com/        
-（免费的10g）       
-- mega网盘    https://mege.io/     
-（免费20G） 
+- [mieafire网盘-免费的10G](https://www.mediafire.com/)    
+- [mega网盘(免费20G)](https://mege.io/)      
+
 
 # 八、自由软件/操作系统 
-- *gnulinux 自由操作系统安装指南（deebian/pureos/archlinux/fedora）              
-https://github.com/Qpqw9301/gnulinux-archlinux-debian-fedora 
--  使用虚拟机安装gnulinux（用于环境隔离和无能力安装gnulunx的人）   
-https://sourceforge.net/projects/pureos-virtualbox/files/pureos-virtualbox/  
+- [*gnulinux 自由操作系统安装指南（deebian/pureos/archlinux/fedora](https://github.com/Qpqw9301/gnulinux-archlinux-debian-fedora) 
+-  [使用虚拟机安装gnulinux（用于环境隔离和无能力安装gnulunx的人)](https://sourceforge.net/projects/pureos-virtualbox/files/pureos-virtualbox/)
+-  
+- [电脑版koodoreader本地阅读器官网](https://koodo.960960.xyz/zh)             
+- [电脑版libreofiice 自由办公软件 官网](https://www.libreoffice.org/download/download-libreoffice/)   
+- [7zip官网](https://www.7-zip.org/download.html)          
+- [windows自由开源沙盒软件 （隔离商业软件 软件环境](https://sandboxie-plus.com/downloads/)     
+- [开源virtaulbox虚拟机（隔离环境 ）](https://www.virtualbox.org/)            
+- [电脑gnulinux自由操作系统 pureos官网](https://www.pureos.net/)             
 
-- 电脑版koodoreader本地阅读器官网 https://koodo.960960.xyz/zh             
-- 电脑版libreofiice 自由办公软件 官网：https://www.libreoffice.org/download/download-libreoffice/     
-- 7zip官网   https://www.7-zip.org/download.html          
-- windows自由开源沙盒软件 （隔离商业软件 软件环境）        
-- https://sandboxie-plus.com/downloads/     
-- 开源虚拟机（隔离环境 ）     https://www.virtualbox.org/                
-- 电脑gnulinux自由操作系统 pureos官网            https://www.pureos.net/             
-
-- 手机操作系统推荐 ：（
-limeage os（基于安卓 ）    https://lineageos.org/           
+- 手机操作系统推荐 ：       
+[limeage os（基于安卓 ）](https://lineageos.org/)           
 石墨烯 系统（仅谷歌手机能用 ）  
 ......      
 解锁刷机 教程：可在酷安app,b站等搜索相关教程
-国外刷机论坛 
-https://xdaforums.com/
+[xda国外刷机论坛](https://xdaforums.com/)
 
 
 #### 自由软件推荐：没给链接的均在fdroid自由软件商店内下载            
 安卓自由开源软件（免跟踪）推荐 ：                   
-fdroid应用商免代理下载及使用教程
-https://codeberg.org/E0D4B047x/fdroid          
+[fdroid应用商免代理下载及使用教程](https://codeberg.org/E0D4B047x/fdroid)          
 
 - 自由输入法-fcitx5 小企鹅输入法,        
-- 小企鹅输入法百万日常词库         https://github.com/wuhgit/CustomPinyinDictionary                 
+&ensp;&ensp;[小企鹅输入法百万日常词库](https://github.com/wuhgit/CustomPinyinDictionary)                
 - fennec      火狐浏览器分支  （fdroid内搜索下载）         
-iceraven  火狐浏览器分支      https://github.com/fork-maintainers/iceraven-browser/      
-火狐浏览器插件下载地址     https://addons.mozilla.org/zh-CN/firefox/extensions/         
-插件推荐：twp网页翻译，adgruad/ublock（广告拦截），Ghostery（跟踪拦截），webrtc,User Agent Switcher,   Disable WebRTC,Violentmonkey....                  
-阅读器-librera,             
-笔记代办-NoNonsense Notes /Standard Notes，                
-办公 libreoffice/onlyoffice（前者在 dfroid 下载，后者在 fdroid 下载 aurora store 然后搜索 onlyoffice），       
+&ensp;&ensp;[iceraven火狐浏览器分支](https://github.com/fork-maintainers/iceraven-browser/)            
+&ensp;&ensp;[火狐浏览器插件下载地址](https://addons.mozilla.org/zh-CN/firefox/extensions/)           
+&ensp;&ensp;插件推荐：twp网页翻译，adgruad/ublock（广告拦截），Ghostery（跟踪拦截），webrtc,User Agent Switcher,   Disable WebRTC,Violentmonkey....                  
+- 阅读器-librera,             
+- 笔记代办-NoNonsense Notes /Standard Notes，                
+- 办公 libreoffice/onlyoffice（前者在 dfroid 下载，后者在 fdroid 下载 aurora store 然后搜索 onlyoffice），       
 - 文件管理解压缩-质感文件/amaze            
 - 解压缩-ZipXtract FD        
 - 图片查看器-Fossify         
@@ -276,39 +226,33 @@ iceraven  火狐浏览器分支      https://github.com/fork-maintainers/icerave
 - 分享链接时去除链接跟踪-移除跟踪（其他应用分享链接时选择更多，然后选择移除跟踪 app,就能生成 不带跟踪的新链接）    
 - 元数据清除器-清除图片中跟踪数据          
 - 元数据移除/去水印：用 opencamera 拍照可以避免水印，用自由办公软件可以避免文件水印，可以用手机局部截图转发图片（不带状态栏时间）      
-- 在线去除图片水印网站：  https://coding.tools/cn/exif-remover      
+- [在线去除图片水印网站](https://coding.tools/cn/exif-remover)      
 - 播放器-vlc,，mpv     
 - 冻结应用-雹(冻结app)      
 - 自由第三方 b 站-pilipalax 可以免登陆 1080p，可以匿名 ，分享链接不带跟踪           
 - *EDS Lite/ SSE/Openkeychain 文件加密          
 - *Extirpater 剩余空间擦除防止被恢复           
 - Duress 错误密码登陆重置手机 （程序自毁）          
-- *Amaork 文件伪装应用隐藏              
-- shelter-独立用户空间隔离主用户文件和软件            
-- meta 元萝卜沙盒               https://github.com/Katana-Official/Meta/releases           
+- *Amaork 文件伪装应用隐藏                 
+- shelter-独立用户空间隔离主用户文件和软件              
+- [meta 元萝卜沙盒](https://github.com/Katana-Official/Meta/releases)                
 
 ##### 无 root 提高用户权限：
-- siziku      https://shizuku.rikka.app/zh-hans/    
-- 免 root 权限管理工具 app ops /或者安卓权限狗 （非开源）
-https://appops.rikka.app/zh-hans/     
-- dhiziku      https://github.com/iamr0s/Dhizuku     
-- 无root使用lsp模块       https://github.com/LSPosed/LSPatch       
+- [siziku](https://shizuku.rikka.app/zh-hans/)       
+-[免 root 权限管理工具 app ops /或者安卓权限狗 （非开源）](https://appops.rikka.app/zh-hans/)       
+- [dhiziku](https://github.com/iamr0s/Dhizuku)       
+- [无root使用lsp模块](https://github.com/LSPosed/LSPatch)        
 - root应用 ：      
-面具root     https://github.com/topjohnwu/Magisk        
-德尔塔面具   https://github.com/HuskyDG/magisk-files/releases       
-隐藏root    https://github.com/rushizgithub/shamiko         
-ksu 内核root：    https://github.com/tiann/KernelSU        
-lsposed mod框架       https://github.com/mywalkb/LSPosed_mod/releases    
-- lsp模块软件推荐：
-dia取消对话框（各种伪装，定位修改等 ）
-https://github.com/Xposed-Modules-Repo/dialog.box     
-隐藏应用列表 （在a应用眼里隐藏b应用的存在 ）   
-https://github.com/Xposed-Modules-Repo/com.tsng.hidemyapplist    
-机型伪装面具模块：     
-https://github.com/HuaZoffice/Magisk_change-your-phone-model       
-ip隐藏： 相关魔法软件                 
-......
-
+[面具root](https://github.com/topjohnwu/Magisk)           
+[德尔塔面具](https://github.com/HuskyDG/magisk-files/release)         
+[隐藏root](https://github.com/rushizgithub/shamiko)           
+[ksu 内核root](https://github.com/tiann/KernelSU)          
+[lsposed mod框架](https://github.com/mywalkb/LSPosed_mod/releases)       
+-lsp模块软件推荐      
+[dia取消对话框（各种伪装，定位修改等 ）](https://github.com/Xposed-Modules-Repo/dialog.box)        
+[隐藏应用列表 （在a应用眼里隐藏b应用的存在 ）](https://github.com/Xposed-Modules-Repo/com.tsng.hidemyapplist)         
+[机型伪装面具模块](https://github.com/HuaZoffice/Magisk_change-your-phone-model)         
+ip隐藏： 相关魔法软件  
 
 
 
