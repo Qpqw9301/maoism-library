@@ -60,7 +60,7 @@
 #  三.其他人的开源项目项目/资料库，包含很多资料
 &ensp;&ensp;&ensp;&ensp;******github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用*****   
 - [国际加速器使用教程（收集自他人开源项目)](https://codeberg.org/E0D4B047x/WorldwideInternet)  
-- [燎原月刊第三方免代理](https://codeberg.org/E0D4B047x/archlinux-debian)            
+- [燎原月刊第三方免代理]([https://codeberg.org/E0D4B047x/archlinux-debian](https://codeberg.org/flower93210/liaoyuan)              
 - [燎原月刊官方（同步更新)](https://github.com/monthlyliaoyuan/monthlyliaoyuan)    
 - [春雷杂志官方（同步更新)](https://github.com/monthlyliaoyuan/SpringThunder)    
 - [马列毛资料库 （支持在线观看/下载)](https://github.com/ProletRevDicta/Prolet)       
