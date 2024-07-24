@@ -51,24 +51,19 @@
 
 &ensp;&ensp;&ensp;&ensp;******解压密码多为文件名后括号内的字母数字或者文件名中文后英文开始的部分（不包含“.xxx”文件名后缀）*****      
 
-1. 国际国内共产运动历史（继续革命，包含韩丁，斯诺专题等）  
-https://www.mediafire.com/folder/1n90zyd6xdgx2/Documents    
-2. 马列毛哲学+阶级斗争实践+西马/托派/安娜其主义/修正主义批判（包含 马列毛哲学学习专题，原著及导读，妇女解放，工人学生教育专题，魏巍同志晚年文章专题，阳和平专题文章视频音频，铁木尔哈达(党员)的晚年日记《醒悟》，农民副总理陈永贵专题等）  
-https://www.mediafire.com/folder/ztrtd5v0299mx/ADOBE       
-3. 影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊，春雷，热浪等杂志，历史影视，纪录片等。注意：最新的燎原和春雷请看后文分享的的燎原官方github库）        
-https://www.mediafire.com/folder/durkr7vyjp252/see          
-4. 软件互联网安全  （隐私安全系统和软件 ）           
-https://www.mediafire.com/folder/nr73ucqpzzv25/netb               
-5. 燎原月刊官方网盘（同步比后文燎原官方github链接慢）：           
-https://www.mediafire.com/folder/19inu1mna8ioz 
+1. [国际国内共产运动历史（继续革命，包含韩丁，斯诺专题等）](https://www.mediafire.com/folder/1n90zyd6xdgx2/Documents)  
+2. [马列毛哲学+阶级斗争实践+西马/托派/安娜其主义/修正主义批判（包含 马列毛哲学学习专题，原著及导读，妇女解放，工人学生教育专题，魏巍同志晚年文章专题，阳和平专题文章视频音频，铁木尔哈达(党员)的晚年日记《醒悟》，农民副总理陈永贵专题等)](https://www.mediafire.com/folder/ztrtd5v0299mx/ADOBE)     
+3. [影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊，春雷，热浪等杂志，历史影视，纪录片等。注意：最新的燎原和春雷请看后文分享的的燎原官方github库)](https://www.mediafire.com/folder/durkr7vyjp252/see)         
+4. [软件互联网安全  （隐私安全系统和软件 ）](https://www.mediafire.com/folder/nr73ucqpzzv25/netb)              
+5. [燎原月刊官方网盘（同步比后文燎原官方github链接慢)](https://www.mediafire.com/folder/19inu1mna8ioz)    
        
 #  三.其他人的开源项目项目/资料库，包含很多资料
 &ensp;&ensp;&ensp;&ensp;******github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用*****   
-- 国际加速器使用教程（收集自他人开源项目）：https://codeberg.org/E0D4B047x/WorldwideInternet   
-- 燎原月刊第三方免代理  https://codeberg.org/E0D4B047x/archlinux-debian            
-- 燎原月刊官方（同步更新）   https://github.com/monthlyliaoyuan/monthlyliaoyuan     
-- 春雷杂志官方（同步更新）   https://github.com/monthlyliaoyuan/SpringThunder     
-- 马列毛资料库 （支持在线观看/下载）     https://github.com/ProletRevDicta/Prolet        
+- [国际加速器使用教程（收集自他人开源项目)](https://codeberg.org/E0D4B047x/WorldwideInternet)  
+- [燎原月刊第三方免代理](https://codeberg.org/E0D4B047x/archlinux-debian)            
+- [燎原月刊官方（同步更新)](https://github.com/monthlyliaoyuan/monthlyliaoyuan)    
+- [春雷杂志官方（同步更新)](https://github.com/monthlyliaoyuan/SpringThunder)    
+- [马列毛资料库 （支持在线观看/下载)](https://github.com/ProletRevDicta/Prolet)       
 
 非github其他资料库 （已失效）       
 马列毛资料库网页版，此为马列毛资料库app的网页版，需要密码登录，密码在顶部提示（注意鉴别里面的的西马特别是阿尔都塞的内容）  
@@ -94,7 +89,7 @@ https://www.5hacg.com/article/6622.html   配合迅雷/motrix 等磁力下载工
 
 # 五、西方马克思主义思潮概论与批判：  
 
-西方马克思主义概论与批判正文（点击链接查看正文） https://codeberg.org/flower93210/Western-Marxism    
+[西方马克思主义概论与批判正文（点击链接查看正文)](https://codeberg.org/flower93210/Western-Marxism)    
 ##### 托洛茨基主义/安娜其无政府主义/修正主义批判参考下文网盘资源
   
 # 六.一些推荐网站  (新闻资料等)      
