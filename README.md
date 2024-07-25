@@ -51,19 +51,19 @@
 
 &ensp;&ensp;&ensp;&ensp;******解压密码多为文件名后括号内的字母数字或者文件名中文后英文开始的部分（不包含“.xxx”文件名后缀）*****      
 
-1. [国际国内共产运动历史（继续革命，包含韩丁，斯诺专题等）](https://www.mediafire.com/folder/1n90zyd6xdgx2/Documents)  
-2. [马列毛哲学+阶级斗争实践+西马/托派/安娜其主义/修正主义批判（包含 马列毛哲学学习专题，原著及导读，妇女解放，工人学生教育专题，魏巍同志晚年文章专题，阳和平专题文章视频音频，铁木尔哈达(党员)的晚年日记《醒悟》，农民副总理陈永贵专题等)](https://www.mediafire.com/folder/ztrtd5v0299mx/ADOBE)     
-3. [影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊，春雷，热浪等杂志，历史影视，纪录片等。注意：最新的燎原和春雷请看后文分享的的燎原官方github库)](https://www.mediafire.com/folder/durkr7vyjp252/see)         
-4. [软件互联网安全  （隐私安全系统和软件 ）](https://www.mediafire.com/folder/nr73ucqpzzv25/netb)              
-5. [燎原月刊官方网盘（同步比后文燎原官方github链接慢)](https://www.mediafire.com/folder/19inu1mna8ioz)    
+1. [国际国内共产运动历史](https://www.mediafire.com/folder/1n90zyd6xdgx2/Documents)  （继续革命，包含韩丁，斯诺专题等）      
+2. [马列毛哲学+阶级斗争实践+西马/托派/安娜其主义/修正主义批判](https://www.mediafire.com/folder/ztrtd5v0299mx/ADOBE)  （包含 马列毛哲学学习专题，原著及导读，妇女解放，工人学生教育专题，魏巍同志晚年文章专题，阳和平专题文章视频音频，铁木尔哈达(党员)的晚年日记《醒悟》，农民副总理陈永贵专题等)           
+3. [影音画报](https://www.mediafire.com/folder/durkr7vyjp252/see) （bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊，春雷，热浪等杂志，历史影视，纪录片等。注意：最新的燎原和春雷请看后文分享的的燎原官方github库)        
+4. [软件互联网安全  ](https://www.mediafire.com/folder/nr73ucqpzzv25/netb)   （隐私安全系统和软件 ）                 
+5. [燎原月刊官方网盘](https://www.mediafire.com/folder/19inu1mna8ioz)    （同步比后文燎原官方github链接慢)      
        
 #  三.其他人的开源项目项目/资料库，包含很多资料
 &ensp;&ensp;&ensp;&ensp;******github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用*****   
 - [国际加速器使用教程（收集自他人开源项目)](https://codeberg.org/E0D4B047x/WorldwideInternet)  
-- [燎原月刊第三方免代理]([https://codeberg.org/E0D4B047x/archlinux-debian](https://codeberg.org/flower93210/liaoyuan)              
-- [燎原月刊官方（同步更新)](https://github.com/monthlyliaoyuan/monthlyliaoyuan)    
-- [春雷杂志官方（同步更新)](https://github.com/monthlyliaoyuan/SpringThunder)    
-- [马列毛资料库 （支持在线观看/下载)](https://github.com/ProletRevDicta/Prolet)       
+- [燎原月刊第三方免代理](https://codeberg.org/flower93210/liaoyuan)                
+- [燎原月刊官方（同步更新)](https://github.com/monthlyliaoyuan/monthlyliaoyuan)      
+- [春雷杂志官方（同步更新)](https://github.com/monthlyliaoyuan/SpringThunder)      
+- [马列毛资料库 （支持在线观看/下载)](https://github.com/ProletRevDicta/Prolet)          
 
 非github其他资料库 （已失效）       
 马列毛资料库网页版，此为马列毛资料库app的网页版，需要密码登录，密码在顶部提示（注意鉴别里面的的西马特别是阿尔都塞的内容）  
@@ -77,26 +77,27 @@ https://book.mlmlib.top/
       
 2. [pdfdrive图书馆](https://www.pdfdrive.com/#)           
 3. [libgen图书馆](https://libgen.li/)            
-4. [安娜的档案（无下载次数限制）](https://zh.annas-archive.gs/)             
-5. [无产阶级图书馆 ](http://45.32.41.3/)       
-6. 如何下载纪录片/电影：谷歌或者bing搜索磁力网站，在磁力网站检索资源/谷歌直接搜索电影纪录片。示例磁力聚合：   
+4. [安娜的档案](https://annas-archive.org/) (无下载次数限制） 
+5. [安娜的档案在线检测](https://www.tddaohang.cn/sites/42.html)          
+6. [无产阶级图书馆 ](http://45.32.41.3/)       
+7. 如何下载纪录片/电影：谷歌或者bing搜索磁力网站，在磁力网站检索资源/谷歌直接搜索电影纪录片。示例磁力聚合：   
 https://www.5hacg.com/article/6622.html   配合迅雷/motrix 等磁力下载工具下载  
   
 
 
 # 五、西方马克思主义思潮概论与批判：  
 
-[西方马克思主义概论与批判正文（点击链接查看正文)](https://codeberg.org/flower93210/Western-Marxism)    
-##### 托洛茨基主义/安娜其无政府主义/修正主义批判参考下文网盘资源
-  
+西方马克思主义概论与批判正文[（点击链接查看正文)](https://codeberg.org/flower93210/Western-Marxism)          
+##### 托洛茨基主义/安娜其无政府主义/修正主义批判参考下文网盘资源      
+    
 # 六.一些推荐网站  (新闻资料等)      
 - [布站-新闻文章等，需要魔法](https://longlivemarxleninmaoism.online/)    
 - [国际共产主义联盟官网（毛主义）](https://ci-ic.org/)        
-[毛泽东博览（毛泽东资料库）](http://www.mzdbl.cn/)    
-- [激流网](https://jiliuwang.net/)       
+[毛泽东博览（毛泽东资料库）](http://www.mzdbl.cn/)      
+- [激流网](https://jiliuwang.net/)         
     
 - [共产主义旗帜网](http://www.gczyqzggpy.com/)      
-- [托派建立的马克思主义文库（需要甄别托派理论和西马理论)](https://www.marxists.org/chinese/index.html)     
+- [托派建立的马克思主义文库](https://www.marxists.org/chinese/index.html) （需要甄别托派理论和西马理论)       
 - [在线旧报刊（人民日报 红旗等)](https://reader.jojokanbao.cn/) 
 - [中国革命历史文献资料](http://geming.20m.com/)  
 - [林彪 军队 继续革命](https://www.linbiao.org/forum/index.php)    
@@ -183,19 +184,19 @@ Firefox Relay 是一个火狐扩展，让你在填写在线表格时保持你的
 - github 目前需要二次验证 ，可以用安卓自由软件freeotop,或者火狐浏览器插件二维码验证器绑定验证        
 
 #### 安全免费匿名的网盘：       
-- [mieafire网盘-免费的10G](https://www.mediafire.com/)    
-- [mega网盘(免费20G)](https://mege.io/)      
+- [mieafire网盘](https://www.mediafire.com/)   （免费的10G）    
+- [mega网盘](https://mege.io/)       (免费20G)       
 
 
 # 八、自由软件/操作系统 
 - [*gnulinux 自由操作系统安装指南（deebian/pureos/archlinux/fedora](https://github.com/Qpqw9301/gnulinux-archlinux-debian-fedora) 
--  [使用虚拟机安装gnulinux（用于环境隔离和无能力安装gnulunx的人)](https://sourceforge.net/projects/pureos-virtualbox/files/pureos-virtualbox/)
+-  [使用虚拟机安装gnulinux](https://sourceforge.net/projects/pureos-virtualbox/files/pureos-virtualbox/)（用于环境隔离和无能力安装gnulunx的人)
 -  
 - [电脑版koodoreader本地阅读器官网](https://koodo.960960.xyz/zh)             
 - [电脑版libreofiice 自由办公软件 官网](https://www.libreoffice.org/download/download-libreoffice/)   
 - [7zip官网](https://www.7-zip.org/download.html)          
-- [windows自由开源沙盒软件 （隔离商业软件 软件环境](https://sandboxie-plus.com/downloads/)     
-- [开源virtaulbox虚拟机（隔离环境 ）](https://www.virtualbox.org/)            
+- [windows自由开源沙盒软件 ](https://sandboxie-plus.com/downloads/)（隔离商业软件 软件环境）     
+- [开源virtaulbox虚拟机](https://www.virtualbox.org/)     （隔离环境 ）              
 - [电脑gnulinux自由操作系统 pureos官网](https://www.pureos.net/)             
 
 - 手机操作系统推荐 ：       
@@ -239,7 +240,7 @@ Firefox Relay 是一个火狐扩展，让你在填写在线表格时保持你的
 
 ##### 无 root 提高用户权限：
 - [siziku](https://shizuku.rikka.app/zh-hans/)       
--[免 root 权限管理工具 app ops /或者安卓权限狗 （非开源）](https://appops.rikka.app/zh-hans/)       
+- [免 root 权限管理工具 app ops /或者安卓权限狗 （非开源）](https://appops.rikka.app/zh-hans/)       
 - [dhiziku](https://github.com/iamr0s/Dhizuku)       
 - [无root使用lsp模块](https://github.com/LSPosed/LSPatch)        
 - root应用 ：      
@@ -248,7 +249,7 @@ Firefox Relay 是一个火狐扩展，让你在填写在线表格时保持你的
 [隐藏root](https://github.com/rushizgithub/shamiko)           
 [ksu 内核root](https://github.com/tiann/KernelSU)          
 [lsposed mod框架](https://github.com/mywalkb/LSPosed_mod/releases)       
--lsp模块软件推荐      
+- lsp模块软件推荐      
 [dia取消对话框（各种伪装，定位修改等 ）](https://github.com/Xposed-Modules-Repo/dialog.box)        
 [隐藏应用列表 （在a应用眼里隐藏b应用的存在 ）](https://github.com/Xposed-Modules-Repo/com.tsng.hidemyapplist)         
 [机型伪装面具模块](https://github.com/HuaZoffice/Magisk_change-your-phone-model)         
