@@ -51,8 +51,8 @@
 
 &ensp;&ensp;&ensp;&ensp;******解压密码多为文件名后括号内的字母数字或者文件名中文后英文开始的部分（不包含“.xxx”文件名后缀）*****      
 
-1. [国际国内共产运动历史](https://www.mediafire.com/folder/1n90zyd6xdgx2/Documents)  （继续革命，包含韩丁，斯诺专题等）      
-2. [马列毛哲学+阶级斗争实践+西马/托派/安娜其主义/修正主义批判](https://www.mediafire.com/folder/ztrtd5v0299mx/ADOBE)  （包含 马列毛哲学学习专题，原著及导读，妇女解放，工人学生教育专题，魏巍同志晚年文章专题，阳和平专题文章视频音频，铁木尔哈达(党员)的晚年日记《醒悟》，农民副总理陈永贵专题等)           
+1. [国际国内共产运动历史](https://www.mediafire.com/folder/1n90zyd6xdgx2/Documents)  （继续革命，国内国际共产主义运动，包含韩丁，斯诺专题等）      
+2. [马列毛哲学+阶级斗争实践+西马/托派/安娜其主义/修正主义批判](https://www.mediafire.com/folder/ztrtd5v0299mx/ADOBE)  （包含马列毛哲学学习专题，原著及导读，妇女解放，工人学生教育专题，魏巍同志晚年文章专题，阳和平专题文章视频音频，铁木尔哈达(党员)的晚年日记《醒悟》，农民副总理陈永贵专题等)           
 3. [影音画报](https://www.mediafire.com/folder/durkr7vyjp252/see) （bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊，春雷，热浪等杂志，历史影视，纪录片等。注意：最新的燎原和春雷请看后文分享的的燎原官方github库)        
 4. [软件互联网安全  ](https://www.mediafire.com/folder/nr73ucqpzzv25/netb)   （隐私安全系统和软件 ）                 
 5. [燎原月刊官方网盘](https://www.mediafire.com/folder/19inu1mna8ioz)    （同步比后文燎原官方github链接慢)      
